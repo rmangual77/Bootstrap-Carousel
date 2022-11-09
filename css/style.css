@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.d-block {
+  height: 400px;
+  width: 400px;
+}
